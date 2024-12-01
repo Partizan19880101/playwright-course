@@ -14,7 +14,7 @@
     "@types/node": "^22.4.0"
   },
   "dependencies": {
-    "@playwright/test": "^1.29.1",
+    "@playwright/test": "^1.48.2",
     "dotenv": "^16.0.3",
     "node-fetch": "^2.6.7",
     "uuid": "^9.0.0"
